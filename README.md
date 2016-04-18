@@ -10,4 +10,4 @@ Then commit your changes and generate a patch:
 
         git format-patch origin/master
 
-Send it to the email address you were given.
+Send the patch file to developer-assessment@bayard-consulting.com
